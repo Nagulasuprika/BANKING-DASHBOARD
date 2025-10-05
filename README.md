@@ -1,51 +1,51 @@
 Banking Performance Insights Dashboard
- Short Description:-
+ 1. Short Description:-
 
-The Banking Performance Insights Dashboard is an interactive Power BI report that provides a comprehensive analysis of key banking metrics — including deposits, loans, customer demographics, and financial performance across multiple years.
-It enables banking executives, financial analysts, and advisors to make data-driven decisions on customer segmentation, credit risk, and asset distribution.
+    * The Banking Performance Insights Dashboard is an interactive Power BI report that provides a comprehensive analysis of key banking metrics — including deposits, loans, customer demographics, and financial       performance across multiple years.
+    * It enables banking executives, financial analysts, and advisors to make data-driven decisions on customer segmentation, credit risk, and asset distribution.
 
- Business Problem:-
+ 2. Business Problem:-
 
-The bank operates across multiple branches, customer segments, and advisory institutions but lacked a unified system to analyze deposits, loans, and customer behaviors.
-Key business questions included:
+     The bank operates across multiple branches, customer segments, and advisory institutions but lacked a unified system to analyze deposits, loans, and customer behaviors.
+    Key business questions included:
 
-Which banking relationship generates the most deposits or loans?
+      > Which banking relationship generates the most deposits or loans?
 
-How do gender and advisor types influence loan performance?
+      > How do gender and advisor types influence loan performance?
 
-What are the trends in account types and balances across years?
+      > What are the trends in account types and balances across years?
 
-How do income bands and nationalities impact bank loan distribution?
+      > How do income bands and nationalities impact bank loan distribution?
 
- Goal of the Dashboard:-
+    Goal of the Dashboard:-
 
-To design a dynamic and user-friendly Power BI dashboard that:
+   * To design a dynamic and user-friendly Power BI dashboard that:
 
-Monitors total deposits, loans, and client metrics across years.
+   * Monitors total deposits, loans, and client metrics across years.
 
-Identifies high-performing banking relationships and advisors.
+   * Identifies high-performing banking relationships and advisors.
 
-Provides insights into customer demographics (gender, nationality, occupation).
+   * Provides insights into customer demographics (gender, nationality, occupation).
 
-Tracks financial performance through historical and categorical comparisons.
+   * Tracks financial performance through historical and categorical comparisons.
 
-Supports strategic planning for business growth and portfolio optimization.
+   * Supports strategic planning for business growth and portfolio optimization.
 
-Tech Stack:-
+  Tech Stack:-
 
-The dashboard was developed using the following tools and technologies:
+     The dashboard was developed using the following tools and technologies:
 
-Power BI Desktop – Visualization, interactivity, and report design
+           a) Power BI Desktop – Visualization, interactivity, and report design
 
-Power Query (M Language) – Data extraction, transformation, and cleaning
+           b) Power Query (M Language) – Data extraction, transformation, and cleaning
 
-DAX (Data Analysis Expressions) – Advanced calculations and KPIs
+           c) DAX (Data Analysis Expressions) – Advanced calculations and KPIs
 
-Data Modeling – Relationship mapping across client, loan, and deposit tables
+           d) Data Modeling – Relationship mapping across client, loan, and deposit tables
 
-File Formats: .pbit (Power BI Template) and .png (Dashboard snapshots)
+           e) File Formats: .pbit (Power BI Template) and .png (Dashboard snapshots)
 
-Data Source:-
+4. Data Source:-
 
 Source: Internal Banking Dataset
 Dataset Includes:
@@ -86,15 +86,16 @@ Banking Relationship: Commercial / Institutional / Private / Retail
 Institution Advisor: 1–7
 
 🔹 Visual Highlights:-
-Visual	Insight
-Bank Loan by Income Band	Donut chart comparing low, medium, and high-income loan distribution
-Bank Loan by Nationality	Pie chart analyzing loans by customer origin
-Bank Loan by Occupation	Vertical bar chart highlighting major borrower professions
-Bank Deposit by Relationship	Donut chart showing deposits by bank type
-Bank Deposit by Nationality	Column chart comparing deposits across nationalities
-Bank Deposit by Income Band	Bar chart showing income-based deposit trends
-Summary KPIs	Displays average bank deposits, savings, credit card usage, and foreign currency balances
-💡 Business Impact & Insights
+   Visual	Insight
+      > Bank Loan by Income Band	Donut chart comparing low, medium, and high-income loan distribution
+      > Bank Loan by Nationality	Pie chart analyzing loans by customer origin
+      > Bank Loan by Occupation	Vertical bar chart highlighting major borrower professions
+      > Bank Deposit by Relationship	Donut chart showing deposits by bank type
+      > Bank Deposit by Nationality	Column chart comparing deposits across nationalities
+      > Bank Deposit by Income Band	Bar chart showing income-based deposit trends
+  Summary KPIs	Displays average bank deposits, savings, credit card usage, and foreign currency balances
+  
+Business Impact & Insights:-
 
 Enhanced understanding of deposit and loan distribution across banking relationships.
 
@@ -106,5 +107,5 @@ Provided clear visibility into historical trends (1995–2004) for strategic pla
 
 Improved data-driven decision-making for advisors and financial managers.
 
-🖼️ Screenshots / Demos
-"C:\Users\nagul\OneDrive\Pictures\BANK DASHBOARD.png"
+5.  Screenshots / Demos:- 
+     "C:\Users\nagul\OneDrive\Pictures\BANK DASHBOARD.png"
