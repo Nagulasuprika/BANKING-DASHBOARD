@@ -1,10 +1,10 @@
 Banking Performance Insights Dashboard
  1. Short Description:-
 
-    * The Banking Performance Insights Dashboard is an interactive Power BI report that provides a comprehensive analysis of key banking metrics — including deposits, loans, customer demographics, and financial       performance across multiple years.
+    * The Banking Performance Insights Dashboard is an interactive Power BI report that provides a comprehensive analysis of key banking metrics — including deposits, loans, customer demographics, and financial performance across multiple years.
     * It enables banking executives, financial analysts, and advisors to make data-driven decisions on customer segmentation, credit risk, and asset distribution.
 
- 2. Business Problem:-
+    Business Problem:-
 
      The bank operates across multiple branches, customer segments, and advisory institutions but lacked a unified system to analyze deposits, loans, and customer behaviors.
     Key business questions included:
@@ -19,7 +19,7 @@ Banking Performance Insights Dashboard
 
     Goal of the Dashboard:-
 
-   * To design a dynamic and user-friendly Power BI dashboard that:
+    To design a dynamic and user-friendly Power BI dashboard that:
 
    * Monitors total deposits, loans, and client metrics across years.
 
@@ -31,81 +31,82 @@ Banking Performance Insights Dashboard
 
    * Supports strategic planning for business growth and portfolio optimization.
 
-  Tech Stack:-
+  2. Tech Stack:-
 
      The dashboard was developed using the following tools and technologies:
 
-           a) Power BI Desktop – Visualization, interactivity, and report design
+           a) Power BI Desktop – Visualization, interactivity, and report design.
 
-           b) Power Query (M Language) – Data extraction, transformation, and cleaning
+           b) Power Query (M Language) – Data extraction, transformation, and cleaning.
 
-           c) DAX (Data Analysis Expressions) – Advanced calculations and KPIs
+           c) DAX (Data Analysis Expressions) – Advanced calculations and KPIs.
 
-           d) Data Modeling – Relationship mapping across client, loan, and deposit tables
+           d) Data Modeling – Relationship mapping across client, loan, and deposit tables.
 
-           e) File Formats: .pbit (Power BI Template) and .png (Dashboard snapshots)
+           e) File Formats: .pbit (Power BI Template) and .png (Dashboard snapshots).
 
-4. Data Source:-
+  3. Data Source:-
 
 Source: Internal Banking Dataset
 Dataset Includes:
 
-1.Total and average deposits
+1.Total and average deposits.
 
-2.Total and average loans
+2.Total and average loans.
 
-3.Banking relationship types (Commercial, Retail, Institutional, Private Bank)
+3.Banking relationship types (Commercial, Retail, Institutional, Private Bank).
 
-4.Advisor and customer demographic data (Gender, Nationality, Occupation)
+4.Advisor and customer demographic data (Gender, Nationality, Occupation).
 
-5.Historical establishment data (1995–2004)
+5.Historical establishment data (1995–2004).
 
 Dashboard Walkthrough:-
 🔹 Key KPIs (Top Section):-
 
-Total Deposit: 3.77bn
+Total Deposit: 3.77bn.
 
-Total Loan: 4.38bn
+Total Loan: 4.38bn.
 
-Savings Account Balance: 698.73M
+Savings Account Balance: 698.73M.
 
-Checking Account Balance: 963.28M
+Checking Account Balance: 963.28M.
 
-Average Client Age: 51.04 years
+Average Client Age: 51.04 years.
 
-Average Bank Risk Score: 2.25
+Average Bank Risk Score: 2.25.
 
 🔹 Filter Panel (Top Section):-
 
-Year: 1995–2004
+Year: 1995–2004.
 
-Gender: Female / Male
+Gender: Female / Male.
 
-Banking Relationship: Commercial / Institutional / Private / Retail
+Banking Relationship: Commercial / Institutional / Private / Retail.
 
-Institution Advisor: 1–7
+Institution Advisor: 1–7.
 
 🔹 Visual Highlights:-
-   Visual	Insight
-      > Bank Loan by Income Band	Donut chart comparing low, medium, and high-income loan distribution
-      > Bank Loan by Nationality	Pie chart analyzing loans by customer origin
-      > Bank Loan by Occupation	Vertical bar chart highlighting major borrower professions
-      > Bank Deposit by Relationship	Donut chart showing deposits by bank type
-      > Bank Deposit by Nationality	Column chart comparing deposits across nationalities
-      > Bank Deposit by Income Band	Bar chart showing income-based deposit trends
-  Summary KPIs	Displays average bank deposits, savings, credit card usage, and foreign currency balances
+    Visual	Insight:
+    
+      > Bank Loan by Income Band	Donut chart comparing low, medium, and high-income loan distribution.
+      > Bank Loan by Nationality	Pie chart analyzing loans by customer origin.
+      > Bank Loan by Occupation	Vertical bar chart highlighting major borrower professions.
+      > Bank Deposit by Relationship	Donut chart showing deposits by bank type.
+      > Bank Deposit by Nationality	Column chart comparing deposits across nationalities.
+      > Bank Deposit by Income Band	Bar chart showing income-based deposit trends.
+  Summary KPIs	Displays average bank deposits, savings, credit card usage, and foreign currency balances.
   
-Business Impact & Insights:-
+4. Business Impact & Insights:-
 
-Enhanced understanding of deposit and loan distribution across banking relationships.
+   -- Enhanced understanding of deposit and loan distribution across banking relationships.
 
-Helped identify profitable customer segments and income bands.
+   -- Helped identify profitable customer segments and income bands.
 
-Supported risk assessment by analyzing demographic and financial data.
+   -- Supported risk assessment by analyzing demographic and financial data.
 
-Provided clear visibility into historical trends (1995–2004) for strategic planning.
+   -- Provided clear visibility into historical trends (1995–2004) for strategic planning.
 
-Improved data-driven decision-making for advisors and financial managers.
+   -- Improved data-driven decision-making for advisors and financial managers.
 
 5.  Screenshots / Demos:- 
-     "C:\Users\nagul\OneDrive\Pictures\BANK DASHBOARD.png"
+     BANK DASHBOARD.png
