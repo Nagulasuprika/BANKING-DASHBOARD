@@ -109,4 +109,4 @@ Institution Advisor: 1–7.
    -- Improved data-driven decision-making for advisors and financial managers.
 
 5.  Screenshots / Demos:- 
-     BANK DASHBOARD.png
+    (https://github.com/Nagulasuprika/BANKING-DASHBOARD/blob/main/BANK%20DASHBOARD.png)
